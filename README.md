@@ -4,5 +4,5 @@ A secret chat built using Flutter Framework and Firebase. Share with your friend
 
 
 ## Snapshots
-<img src="https://user-images.githubusercontent.com/17733053/63657463-c795d880-c778-11e9-839f-da1039fc5b54.png">
-<img src="https://user-images.githubusercontent.com/17733053/63657471-ded4c600-c778-11e9-9762-d418eff06bfb.png">
+<img src="https://user-images.githubusercontent.com/17733053/63657496-26f3e880-c779-11e9-85e5-e994249a0e90.png">
+<img src=https://user-images.githubusercontent.com/17733053/63657502-3a9f4f00-c779-11e9-9569-2698dfa27c36.png">
