@@ -1,6 +1,6 @@
 # Talkei Secret Chat
 
-##A secret chat built using Flutter Framework and Firebase. Share with your friends the chat code and start talk more secret.  
+## A secret chat built using Flutter Framework and Firebase. Share with your friends the chat code and start talk more secret.  
 
 
 ## Snapshots
